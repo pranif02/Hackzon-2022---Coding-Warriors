@@ -1,5 +1,4 @@
-# Hackzon-2022---Coding-Warriors
-This project provides undergraduates with a categorized view of the work experience of various successfull people.  
+# Hackzon-2022---Coding-Warriors 
 
 ### Brief Description and Introduction to the idea and project of the hackathon:  
 "No matter how small, one's shared experience becomes an opportunity or an offer to another."  
