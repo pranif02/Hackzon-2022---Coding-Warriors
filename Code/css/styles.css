@@ -1,0 +1,90 @@
+h1{
+    background-color:#ed7a7a;
+    color: rgb(31, 30, 30);
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-top: auto;
+    font-size: 40px;
+}
+blockquote{
+   font-weight: lighter;
+   font-style: italic;
+  padding: 10px; 
+  font-size: 18px;
+  color:rgb(122, 39, 199);
+  line-height: 2em;
+  border-style: solid;
+  border-color: #ed7a7a;
+  border-width: 4px;
+}
+
+.flex-container {
+display: flex;
+background-color:#ed7a7a;
+}
+.flex-container > div {
+background-color:#f1f1f1;;
+margin: 10px;
+padding: 20px;
+border:  15px;
+font-size: 25px;
+}
+#column1{
+float :left;
+width: 17%;
+padding: 10px;
+background-color: rgb(213, 233, 226);
+height: 1000px;
+font-weight:lighter ;
+font-style: italic;
+}
+#column2{
+float :left;
+width: 21%;
+padding: 10px;
+background-color: rgb(231,245,238);
+height: 1000px;
+font-weight:lighter ;
+font-style: italic;
+}
+#column3{
+float :left;
+width: 18%;
+padding: 10px;
+background-color:rgb(213, 233, 226);
+height: 1000px;
+font-weight:lighter ;
+font-style: italic;
+}
+#column4{
+float :left;
+width: 17%;
+padding: 10px;
+background-color: rgb(231,245,238);
+height: 1000px;
+font-weight:lighter ;
+font-style: italic;
+}
+#column5{
+float :left;
+width: 18%;
+padding: 10px;
+background-color: rgb(213, 233, 226);
+height: 1000px;
+font-weight:lighter ;
+font-style: italic;
+}
+#b1{
+background-color: light grey;
+width: 300px;
+border: 15px rgb(24, 125, 162);
+margin: 5px;
+}
+#button1{
+float: right;
+width:150px;
+height:25px;
+cursor: pointer;
+background-color:rgb(30, 212, 173);
+}
